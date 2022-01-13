@@ -1,7 +1,7 @@
 <h1 align="center">Buenas! Me llamo Pablo Calvo Espinar</h1>
 <h3 align="center">Desarrollador junior back-end</h3>
 
-- 🔭 Actualmente estoy trabajando en: **Aplicaciones de gestión empresarial e IA**
+- 🔭 Actualmente estoy trabajando en: **Aplicaciones de gestión empresarial e IA y aprendiendo JAVA**
 
 - 🌱 Estoy cursando: **DAM (desarrollo de aplicaciones multiplataforma)**
 
