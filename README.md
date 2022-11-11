@@ -2,7 +2,7 @@
 <h1 align="center">Buenas! Soy Pablo Calvo Espinar</h1>
 <h3 align="center">Desarrollador junior back-end</h3>
 
-- 🌱 I’m currently learning -- Estoy estudiando / aprendiendo **Grado superior de desarrollo de aplicaciones multiplataforma**
+- 🌱 I’m currently learning//Estoy estudiando **Grado superior de desarrollo de aplicaciones multiplataforma**
 
 - 📫 How to reach me **pablocalvoespinar@outlook.es**
 
